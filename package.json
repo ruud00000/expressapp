@@ -1,0 +1,23 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "basic express setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruud00000/expressapp.git"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "Ruud Naastepad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruud00000/expressapp/issues"
+  },
+  "homepage": "https://github.com/ruud00000/expressapp#readme"
+}
